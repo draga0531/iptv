@@ -912,6 +912,39 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9hve8V5.png" group-title="Kids",Canal Sur La Banda (España)
 https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8?fluxustv.m3u8
 
+#EXTINF:-1,KIDS US: BABY TV_by_dailym3uiptv.com
+http://beastiptv.tv:25461/live/wally/wally123/1470.m3u8
+#EXTINF:-1,KIDS US: BOOMERANG
+http://beastiptv.tv:25461/live/wally/wally123/1271.m3u8
+#EXTINF:-1,KIDS US: CARTOON NETWORK
+http://beastiptv.tv:25461/live/wally/wally123/1274.m3u8
+#EXTINF:-1,KIDS US: CARTOON NETWORK WEST
+http://beastiptv.tv:25461/live/wally/wally123/4041.m3u8
+#EXTINF:-1,KIDS US: DISNEY CHANNEL EAST
+http://beastiptv.tv:25461/live/wally/wally123/1472.m3u8
+#EXTINF:-1,KIDS US: DISNEY CHANNEL WEST
+http://beastiptv.tv:25461/live/wally/wally123/1471.m3u8
+#EXTINF:-1,KIDS US: DISNEY JR EAST
+http://beastiptv.tv:25461/live/wally/wally123/1473.m3u8
+#EXTINF:-1,KIDS US: DISNEY JR WEST
+http://beastiptv.tv:25461/live/wally/wally123/1474.m3u8
+#EXTINF:-1,KIDS US: DISNEY XD EAST
+http://beastiptv.tv:25461/live/wally/wally123/1475.m3u8
+#EXTINF:-1,KIDS US: DISNEY XD WEST
+http://beastiptv.tv:25461/live/wally/wally123/1476.m3u8
+#EXTINF:-1,KIDS US: NICK JR EAST
+http://beastiptv.tv:25461/live/wally/wally123/1479.m3u8
+#EXTINF:-1,KIDS US: NICKELODEON EAST
+http://beastiptv.tv:25461/live/wally/wally123/1477.m3u8
+#EXTINF:-1,KIDS US: NICKTOONS
+http://beastiptv.tv:25461/live/wally/wally123/1481.m3u8
+#EXTINF:-1,KIDS US: PBS KIDS
+http://beastiptv.tv:25461/live/wally/wally123/6446.m3u8
+#EXTINF:-1,KIDS US: UNIVERSAL KIDS (SPROUT)
+http://beastiptv.tv:25461/live/wally/wally123/4054.m3u8
+
+
+
 
 
 
@@ -1281,6 +1314,154 @@ http://iptv.deluxeplay.live:80/W3U4y3p5u/Y0tQv889do/23
 #EXTINF:-1,CL: Fox Sports 2 HD
 http://iptv.deluxeplay.live:80/W3U4y3p5u/Y0tQv889do/24
 
+#EXTINF:-1,NFL NETWORK 
+http://beastiptv.tv:25461/live/wally/wally123/1487.m3u8
+#EXTINF:-1,NFL REDZONE
+http://beastiptv.tv:25461/live/wally/wally123/1486.m3u8
+#EXTINF:-1,US: NBA TV
+http://beastiptv.tv:25461/live/wally/wally123/1490.m3u8
+#EXTINF:-1,CA: NBA TV
+http://beastiptv.tv:25461/live/wally/wally123/2713.m3u8
+#EXTINF:-1,US: NHL NETWORK
+http://beastiptv.tv:25461/live/wally/wally123/1485.m3u8
+#EXTINF:-1,US: ESPN NEWS
+http://beastiptv.tv:25461/live/wally/wally123/1541.m3u8
+#EXTINF:-1,US: ESPN SEC NETWORK
+http://beastiptv.tv:25461/live/wally/wally123/1536.m3u8
+#EXTINF:-1,US: ESPN U
+http://beastiptv.tv:25461/live/wally/wally123/1539.m3u8
+#EXTINF:-1,US: ESPN |+|
+http://beastiptv.tv:25461/live/wally/wally123/1553.m3u8
+#EXTINF:-1,US: ESPN 2
+http://beastiptv.tv:25461/live/wally/wally123/1552.m3u8
+#EXTINF:-1,WORLD SERIES 3
+http://beastiptv.tv:25461/live/wally/wally123/1457.m3u8
+#EXTINF:-1,WORLD SERIES 4
+http://beastiptv.tv:25461/live/wally/wally123/1458.m3u8
+#EXTINF:-1,SPORTS US: TENNIS CHANNEL
+http://beastiptv.tv:25461/live/wally/wally123/4482.m3u8
+#EXTINF:-1,SPORTS US: UFC FIGHT PASS
+http://beastiptv.tv:25461/live/wally/wally123/1484.m3u8
+#EXTINF:-1,SPORTS US: WILLOW CRICKET 
+http://beastiptv.tv:25461/live/wally/wally123/5558.m3u8
+#EXTINF:-1,SPORTS US: WWE NETWORK
+http://beastiptv.tv:25461/live/wally/wally123/1483.m3u8
+#EXTINF:-1,SPORTS US: MSG
+http://beastiptv.tv:25461/live/wally/wally123/4480.m3u8
+#EXTINF:-1,SPORTS US: MSG PLUS
+http://beastiptv.tv:25461/live/wally/wally123/6430.m3u8
+#EXTINF:-1,SPORTS US: MSG 2
+http://beastiptv.tv:25461/live/wally/wally123/6431.m3u8
+#EXTINF:-1,SPORTS US: MSG 2 PLUS
+http://beastiptv.tv:25461/live/wally/wally123/6432.m3u8
+#EXTINF:-1,SPORTS US: NBCSN
+http://beastiptv.tv:25461/live/wally/wally123/2623.m3u8
+#EXTINF:-1,SPORTS US: NESN_by_dailym3uiptv.com
+http://beastiptv.tv:25461/live/wally/wally123/1488.m3u8
+#EXTINF:-1,SPORTS US: NESN PLUS
+http://beastiptv.tv:25461/live/wally/wally123/1489.m3u8
+#EXTINF:-1,SPORTS US: OLYMPIC CHANNEL
+http://beastiptv.tv:25461/live/wally/wally123/1422.m3u8
+#EXTINF:-1,SPORTS US: PAC-12 NETWORK
+http://beastiptv.tv:25461/live/wally/wally123/5560.m3u8
+#EXTINF:-1,SPORTS US: GOLF CHANNEL
+http://beastiptv.tv:25461/live/wally/wally123/1494.m3u8
+#EXTINF:-1,SPORTS US: LONGHORN NETWORK
+http://beastiptv.tv:25461/live/wally/wally123/1493.m3u8
+#EXTINF:-1,SPORTS US: MLB NETWORK
+http://beastiptv.tv:25461/live/wally/wally123/1492.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS 1 |+|
+http://beastiptv.tv:25461/live/wally/wally123/1529.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS 2
+http://beastiptv.tv:25461/live/wally/wally123/1528.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS ARIZONA
+http://beastiptv.tv:25461/live/wally/wally123/1527.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS CAROLINAS
+http://beastiptv.tv:25461/live/wally/wally123/1525.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS CINCINNATI
+http://beastiptv.tv:25461/live/wally/wally123/1523.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS DEPORTES
+http://beastiptv.tv:25461/live/wally/wally123/1522.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS DETROIT
+http://beastiptv.tv:25461/live/wally/wally123/1521.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS FLORIDA
+http://beastiptv.tv:25461/live/wally/wally123/1520.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS INDIANA
+http://beastiptv.tv:25461/live/wally/wally123/1518.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS KANSAS CITY
+http://beastiptv.tv:25461/live/wally/wally123/1517.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS MIDWEST
+http://beastiptv.tv:25461/live/wally/wally123/1516.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS NET BASE
+http://beastiptv.tv:25461/live/wally/wally123/1514.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS NEW ORLEANS
+http://beastiptv.tv:25461/live/wally/wally123/1515.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS NORTH
+http://beastiptv.tv:25461/live/wally/wally123/1509.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS NORTH PLUS
+http://beastiptv.tv:25461/live/wally/wally123/1508.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS OHIO
+http://beastiptv.tv:25461/live/wally/wally123/1503.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS OHIO PLUS
+http://beastiptv.tv:25461/live/wally/wally123/1502.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS PRIME TICKET
+http://beastiptv.tv:25461/live/wally/wally123/1501.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS SAN DIEGO
+http://beastiptv.tv:25461/live/wally/wally123/1500.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS SOUTH
+http://beastiptv.tv:25461/live/wally/wally123/1499.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS SOUTHEAST
+http://beastiptv.tv:25461/live/wally/wally123/1506.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS SOUTHWEST
+http://beastiptv.tv:25461/live/wally/wally123/1498.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS SOUTHWEST PLUS
+http://beastiptv.tv:25461/live/wally/wally123/1505.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS SUN
+http://beastiptv.tv:25461/live/wally/wally123/1497.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS TENNESSEE
+http://beastiptv.tv:25461/live/wally/wally123/1504.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS WEST
+http://beastiptv.tv:25461/live/wally/wally123/1496.m3u8
+#EXTINF:-1,SPORTS US: FOX SPORTS WISCONSIN
+http://beastiptv.tv:25461/live/wally/wally123/1495.m3u8
+#EXTINF:-1,SPORTS US: FOX YES
+http://beastiptv.tv:25461/live/wally/wally123/4476.m3u8
+#EXTINF:-1,SPORTS US: BEIN SPORTS EN ESPANOL
+http://beastiptv.tv:25461/live/wally/wally123/1568.m3u8
+#EXTINF:-1,SPORTS US: BIG TEN NETWORK
+http://beastiptv.tv:25461/live/wally/wally123/4450.m3u8
+#EXTINF:-1,SPORTS US: CBS SPORTS NETWORK
+http://beastiptv.tv:25461/live/wally/wally123/7523.m3u8
+#EXTINF:-1,SPORTS US: CSN BAY AREA
+http://beastiptv.tv:25461/live/wally/wally123/1566.m3u8
+#EXTINF:-1,SPORTS US: CSN BAY AREA PLUS
+http://beastiptv.tv:25461/live/wally/wally123/1567.m3u8
+#EXTINF:-1,SPORTS US: CSN BOSTON
+http://beastiptv.tv:25461/live/wally/wally123/1565.m3u8
+#EXTINF:-1,SPORTS US: CSN CALIFORNIA
+http://beastiptv.tv:25461/live/wally/wally123/1563.m3u8
+#EXTINF:-1,SPORTS US: CSN CALIFORNIA PLUS
+http://beastiptv.tv:25461/live/wally/wally123/1564.m3u8
+#EXTINF:-1,SPORTS US: CSN CHICAGO
+http://beastiptv.tv:25461/live/wally/wally123/1562.m3u8
+#EXTINF:-1,SPORTS US: CSN CHICAGO PLUS
+http://beastiptv.tv:25461/live/wally/wally123/1561.m3u8
+#EXTINF:-1,SPORTS US: CSN MID ATLANTIC
+http://beastiptv.tv:25461/live/wally/wally123/1560.m3u8
+#EXTINF:-1,SPORTS US: CSN NEW ENGLAND
+http://beastiptv.tv:25461/live/wally/wally123/1559.m3u8
+#EXTINF:-1,SPORTS US: CSN NORTHWEST
+http://beastiptv.tv:25461/live/wally/wally123/1558.m3u8
+#EXTINF:-1,SPORTS US: CSN PHILADELPHIA
+http://beastiptv.tv:25461/live/wally/wally123/1556.m3u8
+#EXTINF:-1,SPORTS US: CSN PHILADELPHIA PLUS
+http://beastiptv.tv:25461/live/wally/wally123/1557.m3u8
+#EXTINF:-1,SPORTS US: CSN WASHINGTON
+http://beastiptv.tv:25461/live/wally/wally123/1554.m3u8
+#EXTINF:-1,SPORTS US: CSN WASHINGTON PLUS
+http://beastiptv.tv:25461/live/wally/wally123/1555.m3u8
+#EXTINF:-1,SPORTS US: FIGHT NETWORK
+http://beastiptv.tv:25461/live/wally/wally123/1535.m3u8
 
 
 
@@ -1534,6 +1715,212 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://portalfoxmix.club/wp-content/uploads/2016/07/logoPFM.png" group-title="Musica",Portal Foxmix (Chile)
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1,MC 00: 70s
+http://beastiptv.tv:25461/live/wally/wally123/4672.m3u8
+#EXTINF:-1,MC 01: 80s Rock
+http://beastiptv.tv:25461/live/wally/wally123/3755.m3u8
+#EXTINF:-1,MC 02: 80s
+http://beastiptv.tv:25461/live/wally/wally123/3756.m3u8
+#EXTINF:-1,MC 03: 90s
+http://beastiptv.tv:25461/live/wally/wally123/3757.m3u8
+#EXTINF:-1,MC 04: Adult Alternative
+http://beastiptv.tv:25461/live/wally/wally123/3758.m3u8
+#EXTINF:-1,MC 05: All Christmas
+http://beastiptv.tv:25461/live/wally/wally123/3759.m3u8
+#EXTINF:-1,MC 06: Alternative Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3760.m3u8
+#EXTINF:-1,MC 07: Alternative R&B Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3761.m3u8
+#EXTINF:-1,MC 08: Alternative
+http://beastiptv.tv:25461/live/wally/wally123/3762.m3u8
+#EXTINF:-1,MC 09: Americana
+http://beastiptv.tv:25461/live/wally/wally123/3763.m3u8
+#EXTINF:-1,MC 10: Bluegrass
+http://beastiptv.tv:25461/live/wally/wally123/3764.m3u8
+#EXTINF:-1,MC 11: Blues
+http://beastiptv.tv:25461/live/wally/wally123/3765.m3u8
+#EXTINF:-1,MC 12: Brazilian Pop Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3766.m3u8
+#EXTINF:-1,MC 13: Brits Hits Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3767.m3u8
+#EXTINF:-1,MC 14: Brits Hits Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3768.m3u8
+#EXTINF:-1,MC 15: Classic Alternative
+http://beastiptv.tv:25461/live/wally/wally123/3769.m3u8
+#EXTINF:-1,MC 16: Classic Country
+http://beastiptv.tv:25461/live/wally/wally123/3770.m3u8
+#EXTINF:-1,MC 17: Classic Dance
+http://beastiptv.tv:25461/live/wally/wally123/3771.m3u8
+#EXTINF:-1,MC 18: Classic Metal
+http://beastiptv.tv:25461/live/wally/wally123/3772.m3u8
+#EXTINF:-1,MC 19: Classic Rock
+http://beastiptv.tv:25461/live/wally/wally123/3773.m3u8
+#EXTINF:-1,MC 20: Classical Masterpieces
+http://beastiptv.tv:25461/live/wally/wally123/3774.m3u8
+#EXTINF:-1,MC 21: Contemporary Christian
+http://beastiptv.tv:25461/live/wally/wally123/3775.m3u8
+#EXTINF:-1,MC 22: Country Hits
+http://beastiptv.tv:25461/live/wally/wally123/3776.m3u8
+#EXTINF:-1,MC 23: Dance/EDM Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3777.m3u8
+#EXTINF:-1,MC 24: Dance/EDM
+http://beastiptv.tv:25461/live/wally/wally123/3778.m3u8
+#EXTINF:-1,MC 25: Easy/Listening
+http://beastiptv.tv:25461/live/wally/wally123/3779.m3u8
+#EXTINF:-1,MC 26: EmoXScreamo
+http://beastiptv.tv:25461/live/wally/wally123/3780.m3u8
+#EXTINF:-1,MC 27: Filipino
+http://beastiptv.tv:25461/live/wally/wally123/3781.m3u8
+#EXTINF:-1,MC 28: Folk
+http://beastiptv.tv:25461/live/wally/wally123/3782.m3u8
+#EXTINF:-1,MC 29: Funk
+http://beastiptv.tv:25461/live/wally/wally123/3783.m3u8
+#EXTINF:-1,MC 30: Gospel
+http://beastiptv.tv:25461/live/wally/wally123/3784.m3u8
+#EXTINF:-1,MC 31: HipHop & R&B Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3785.m3u8
+#EXTINF:-1,MC 32: Hip-Hop & R&B
+http://beastiptv.tv:25461/live/wally/wally123/3786.m3u8
+#EXTINF:-1,MC 33: Hip-Hop Classics
+http://beastiptv.tv:25461/live/wally/wally123/3787.m3u8
+#EXTINF:-1,MC 34: Hit List
+http://beastiptv.tv:25461/live/wally/wally123/3788.m3u8
+#EXTINF:-1,MC 35: Hit List Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3789.m3u8
+#EXTINF:-1,MC 36: Indie Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3790.m3u8
+#EXTINF:-1,MC 37: Indie
+http://beastiptv.tv:25461/live/wally/wally123/3791.m3u8
+#EXTINF:-1,MC 38: Jazz
+http://beastiptv.tv:25461/live/wally/wally123/3792.m3u8
+#EXTINF:-1,MC 39: K Pop
+http://beastiptv.tv:25461/live/wally/wally123/3793.m3u8
+#EXTINF:-1,MC 40: Kids Movie Soundtracks
+http://beastiptv.tv:25461/live/wally/wally123/3794.m3u8
+#EXTINF:-1,MC 41: Kidz Only Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3795.m3u8
+#EXTINF:-1,MC 42: Kidz Only
+http://beastiptv.tv:25461/live/wally/wally123/3796.m3u8
+#EXTINF:-1,MC 43: Latin Jazz
+http://beastiptv.tv:25461/live/wally/wally123/3797.m3u8
+#EXTINF:-1,MC 44: Light Classical
+http://beastiptv.tv:25461/live/wally/wally123/3798.m3u8
+#EXTINF:-1,MC 45: Lounge
+http://beastiptv.tv:25461/live/wally/wally123/3799.m3u8
+#EXTINF:-1,MC 46: Love Songs
+http://beastiptv.tv:25461/live/wally/wally123/3800.m3u8
+#EXTINF:-1,MC 47: Metal Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3801.m3u8
+#EXTINF:-1,MC 48: Metal
+http://beastiptv.tv:25461/live/wally/wally123/3802.m3u8
+#EXTINF:-1,MC 49: Mexicana Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3803.m3u8
+#EXTINF:-1,MC 50: Mexicana
+http://beastiptv.tv:25461/live/wally/wally123/3804.m3u8
+#EXTINF:-1,MC 51: Music Choice Max
+http://beastiptv.tv:25461/live/wally/wally123/3805.m3u8
+#EXTINF:-1,MC 52: Musica Urbana Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3806.m3u8
+#EXTINF:-1,MC 53: Musica Urbana
+http://beastiptv.tv:25461/live/wally/wally123/3807.m3u8
+#EXTINF:-1,MC 54: New Wave
+http://beastiptv.tv:25461/live/wally/wally123/3808.m3u8
+#EXTINF:-1,MC 55: Opera
+http://beastiptv.tv:25461/live/wally/wally123/3809.m3u8
+#EXTINF:-1,MC 56: Party Favorites
+http://beastiptv.tv:25461/live/wally/wally123/3810.m3u8
+#EXTINF:-1,MC 57: Pop & Country Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3811.m3u8
+#EXTINF:-1,MC 58: Pop Hits Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3812.m3u8
+#EXTINF:-1,MC 59: Pop Hits
+http://beastiptv.tv:25461/live/wally/wally123/3813.m3u8
+#EXTINF:-1,MC 60: Pop Latino Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3814.m3u8
+#EXTINF:-1,MC 61: Pop Latino
+http://beastiptv.tv:25461/live/wally/wally123/3815.m3u8
+#EXTINF:-1,MC 62: Pop & Country
+http://beastiptv.tv:25461/live/wally/wally123/3816.m3u8
+#EXTINF:-1,MC 63: Punk
+http://beastiptv.tv:25461/live/wally/wally123/3817.m3u8
+#EXTINF:-1,MC 64: R&B Soul Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3818.m3u8
+#EXTINF:-1,MC 65: R&B Soul
+http://beastiptv.tv:25461/live/wally/wally123/3819.m3u8
+#EXTINF:-1,MC 66: Rap Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3820.m3u8
+#EXTINF:-1,MC 67: Rap
+http://beastiptv.tv:25461/live/wally/wally123/3821.m3u8
+#EXTINF:-1,MC 68: Rap 2K Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3822.m3u8
+#EXTINF:-1,MC 69: Rap 2K
+http://beastiptv.tv:25461/live/wally/wally123/3823.m3u8
+#EXTINF:-1,MC 70: Reggae
+http://beastiptv.tv:25461/live/wally/wally123/3824.m3u8
+#EXTINF:-1,MC 71: R&B Classics
+http://beastiptv.tv:25461/live/wally/wally123/3825.m3u8
+#EXTINF:-1,MC 72: Rock Hits
+http://beastiptv.tv:25461/live/wally/wally123/3826.m3u8
+#EXTINF:-1,MC 73: Rock Latino
+http://beastiptv.tv:25461/live/wally/wally123/3827.m3u8
+#EXTINF:-1,MC 74: Rock Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3828.m3u8
+#EXTINF:-1,MC 75: Rock
+http://beastiptv.tv:25461/live/wally/wally123/3829.m3u8
+#EXTINF:-1,MC 76: Romances
+http://beastiptv.tv:25461/live/wally/wally123/3830.m3u8
+#EXTINF:-1,MC 77: Singers & Swing
+http://beastiptv.tv:25461/live/wally/wally123/3831.m3u8
+#EXTINF:-1,MC 78: Smooth Jazz
+http://beastiptv.tv:25461/live/wally/wally123/3832.m3u8
+#EXTINF:-1,MC 79: Soft Rock
+http://beastiptv.tv:25461/live/wally/wally123/3833.m3u8
+#EXTINF:-1,MC 80: Solid Gold Oldies
+http://beastiptv.tv:25461/live/wally/wally123/3834.m3u8
+#EXTINF:-1,MC 81: Sounds of The Seasons
+http://beastiptv.tv:25461/live/wally/wally123/3835.m3u8
+#EXTINF:-1,MC 82: Soundscapes
+http://beastiptv.tv:25461/live/wally/wally123/3836.m3u8
+#EXTINF:-1,MC 83: Stage & Screen
+http://beastiptv.tv:25461/live/wally/wally123/3837.m3u8
+#EXTINF:-1,MC 84: Teen Beats Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3838.m3u8
+#EXTINF:-1,MC 85: Teen Beats
+http://beastiptv.tv:25461/live/wally/wally123/3839.m3u8
+#EXTINF:-1,MC 86: Teen Ritmos
+http://beastiptv.tv:25461/live/wally/wally123/3840.m3u8
+#EXTINF:-1,MC 87: Throwback Jamz Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3841.m3u8
+#EXTINF:-1,MC 88: Throwback Jamz
+http://beastiptv.tv:25461/live/wally/wally123/3842.m3u8
+#EXTINF:-1,MC 89: TodaysCountry Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3843.m3u8
+#EXTINF:-1,MC 90: Todays Country
+http://beastiptv.tv:25461/live/wally/wally123/3844.m3u8
+#EXTINF:-1,MC 91: Toddler Tunes Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3845.m3u8
+#EXTINF:-1,MC 92: Toddler Tunes
+http://beastiptv.tv:25461/live/wally/wally123/3846.m3u8
+#EXTINF:-1,MC 93: Tropicales Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3847.m3u8
+#EXTINF:-1,MC 94: Tropicales
+http://beastiptv.tv:25461/live/wally/wally123/3848.m3u8
+#EXTINF:-1,MC 95: Underground Hip-Hop
+http://beastiptv.tv:25461/live/wally/wally123/3849.m3u8
+#EXTINF:-1,MC 96: Y2K Music Videos
+http://beastiptv.tv:25461/live/wally/wally123/3850.m3u8
+#EXTINF:-1,MC 97: Y2K
+http://beastiptv.tv:25461/live/wally/wally123/3851.m3u8
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NewsNetLogo.png" group-title="News",NewsNet
