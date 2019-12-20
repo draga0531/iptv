@@ -811,14 +811,96 @@ http://194.179.53.124:1935/live/traveltv/playlist.m3u8?fluxustv.m3u8
 
 
 
+#EXTINF:-1, BH TV PERU
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u
+#EXTINF: -0, BHTV PERU
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+#EXTINF:-1,|PERU| AMERICA TELEVISION
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27526
+#EXTINF:-1,|PERU| ATV
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27525
+#EXTINF: -0, ANTARES TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1,|PERU| CAPITAL TV
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27520
+#EXTINF: -0, CENTRAL TV PERU
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF: -0, CULTURA 24
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+#EXTINF:-1,|PERU| LATINA
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27527
+#EXTINF:-1,|PERU| Monterrico TV
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27524
+#EXTINF:-1,|PERU| PANAMERICANA
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27523
+#EXTINF:-1,|PERU| TV PERU
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27522
+#EXTINF: 0, TV PERU HD NOTICIAS 
+https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1,TV PERU
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF: 0, TV PERU HD
+https://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF: 0, TV COSMOS 
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w773600260.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_Ho7ijN_7EX3uReLP_U3aLBdHfLVK8wkbHLg=s288-c-k-c0xffffffff-no-rj-mo" tvg-id="0" group-title="PERU",SUMAC Tu Identidad
+http://181.177.245.174:90/sumac
+#EXTINF:-1 tvg-logo="http://uci.pe/wp-content/uploads/2018/11/1.png" tvg-id="1" group-title="PERU",UCI. NOTICIAS
+http://stream.tmcreativos.com:1935/jmercado/jmercado/chunklist_w1906240530.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JuJyG1P.png" group-title="PERU", Antares TV | SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru | HD
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru (Alt) | SD
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="PERU", Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
 
 
 
+#EXTINF:-1,|CHILE| 13 CABLE
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27560
+#EXTINF:-1,|CHILE| CANAL13
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27559
+#EXTINF:-1,|CHILE| CDF PREMIUN
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27556
+#EXTINF:-1,|CHILE| CNN
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27555
+#EXTINF:-1,|CHILE| ESTADIO CDF
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27553
+#EXTINF:-1,|CHILE| LA RED
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27558
+#EXTINF:-1,|CHILE| MEGA
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27557
+#EXTINF:-1,|CHILE| TVN
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27561
 
 
 
-
-
+#EXTINF:-1,|COLOMBIA| CABLENOTICIAS
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27564
+#EXTINF:-1,|COLOMBIA| CARACOL
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27575
+#EXTINF:-1,|COLOMBIA| CITY TV
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27563
+#EXTINF:-1,|COLOMBIA| RCN
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27572
+#EXTINF:-1,|COLOMBIA| RCN HD2
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27571
+#EXTINF:-1,|COLOMBIA| RCN NOVELAS
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27570
+#EXTINF:-1,|COLOMBIA| SENAL COLOMBIA
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27569
+#EXTINF:-1,|COLOMBIA| TELE MEDELLIN
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27566
+#EXTINF:-1,|COLOMBIA| TELEPACIFICO
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27568
+#EXTINF:-1,|COLOMBIA| TRECE
+http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27565
 
 
 
