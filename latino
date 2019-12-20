@@ -903,7 +903,20 @@ http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27568
 http://iptv-teli.com:8789/27660/FZ9Et9DcmH/27565
 
 
-
+#EXTINF:-1 ,COLOSAL TV COSTA RICA
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 ,TELESUR COSTA RICA
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 ,TV SUR COSTA RICA
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:-1 ,TELERED COSTA RICA
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1 ,MULTIMEDIOS COSTA RICA
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 ,TICAVISION COSTA RICA
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 ,EXTREMA COSTA RICA
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
